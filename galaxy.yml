@@ -1,0 +1,19 @@
+---
+namespace: "technotim"
+description: "k3s"
+name: "k3s"
+version: "v1.24.11+k3s1"
+readme: "README.md"
+authors:
+  - "Techno Tim <insert your links here>"
+dependencies:
+  ansible.utils:
+  community.general:
+  ansible.posix:
+  kubernetes.core:
+license:
+  - "MIT"
+tags:
+  - demo
+  - collection
+repository: "https://github.com/techno-tim/k3s-ansible/"
