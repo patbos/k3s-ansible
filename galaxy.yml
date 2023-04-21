@@ -7,10 +7,10 @@ readme: "README.md"
 authors:
   - "Techno Tim <insert your links here>"
 dependencies:
-  ansible.utils:
-  community.general:
-  ansible.posix:
-  kubernetes.core:
+  ansible.utils: ">=1.5"
+  community.general: ">=6.5.0"
+  ansible.posix: ">=1.5"
+  kubernetes.core: ">=2.4"
 license:
   - "MIT"
 tags:
