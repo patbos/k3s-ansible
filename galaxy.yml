@@ -2,7 +2,7 @@
 namespace: "technotim"
 description: "k3s"
 name: "k3s"
-version: "v1.24.11+k3s1"
+version: "v1.24.11"
 readme: "README.md"
 authors:
   - "Techno Tim <insert your links here>"
