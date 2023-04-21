@@ -2,7 +2,7 @@
 namespace: "technotim"
 description: "k3s"
 name: "k3s"
-version: "galaxy"
+version: "1.24.11"
 readme: "README.md"
 authors:
   - "Techno Tim <insert your links here>"
